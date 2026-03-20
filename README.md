@@ -31,6 +31,61 @@ RakshAI is an AI-powered parametric insurance platform designed to protect deliv
 
 ---
 
+## 📱 Product Interface
+
+### 1. Solution Overview (Landing)
+
+<img src="images/landing.png" width="100%" />
+
+RakshAI provides a simple and intuitive interface that clearly communicates its core value — protecting delivery partners from unpredictable income disruptions in real time.
+
+---
+
+### 2. Real-Time Earnings Dashboard
+
+<img src="images/dashboard.png" width="100%" />
+
+The dashboard compares expected and actual earnings in real time.  
+When a significant income drop is detected, the system immediately identifies the gap and marks the user as eligible for compensation.
+
+---
+
+### 3. Automated Claim & Instant Payout
+
+<img src="images/payout.png" width="100%" />
+
+RakshAI automatically verifies disruptions and triggers claims without any manual intervention.  
+Payouts are processed instantly and credited directly to the user, ensuring zero delay and no paperwork.
+
+---
+
+### 4. Coverage & Pricing Model
+
+<img src="images/pricing.png" width="100%" />
+
+The platform offers a simple weekly pricing model starting at ₹29.  
+Coverage includes disruptions such as heavy rainfall, extreme heat, and platform outages, making it practical and accessible.
+
+---
+
+### 5. Admin Dashboard Overview
+
+<img src="images/admin.png" width="100%" />
+
+The admin dashboard provides system-wide visibility including active users, payouts, and loss ratios.  
+This ensures operational control and financial sustainability of the platform.
+
+---
+
+### 6. Hyperlocal Zone Risk Engine
+
+<img src="images/zonerisk.png" width="100%" />
+
+The zone risk engine assigns dynamic risk scores based on real-time and historical data.  
+This enables accurate, location-based pricing and improves fairness across users.
+
+---
+
 ## 4. Core Features
 
 | Feature | Description | Value Delivered |

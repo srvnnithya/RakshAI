@@ -33,7 +33,7 @@ RakshAI is an AI-powered parametric insurance platform designed to protect deliv
 
 ## 📱 Product Interface
 
-### 1. Solution Overview (Landing)
+### i. Solution Overview (Landing)
 
 <img src="images/landing.png" width="100%" />
 
@@ -41,7 +41,7 @@ RakshAI provides a simple and intuitive interface that clearly communicates its 
 
 ---
 
-### 2. Real-Time Earnings Dashboard
+### ii. Real-Time Earnings Dashboard
 
 <img src="images/dashboard.png" width="100%" />
 
@@ -50,7 +50,7 @@ When a significant income drop is detected, the system immediately identifies th
 
 ---
 
-### 3. Automated Claim & Instant Payout
+### iii. Automated Claim & Instant Payout
 
 <img src="images/payout.png" width="100%" />
 
@@ -59,7 +59,7 @@ Payouts are processed instantly and credited directly to the user, ensuring zero
 
 ---
 
-### 4. Coverage & Pricing Model
+### iv. Coverage & Pricing Model
 
 <img src="images/pricing.png" width="100%" />
 
@@ -68,7 +68,7 @@ Coverage includes disruptions such as heavy rainfall, extreme heat, and platform
 
 ---
 
-### 5. Admin Dashboard Overview
+### v. Admin Dashboard Overview
 
 <img src="images/admin.png" width="100%" />
 
@@ -77,7 +77,7 @@ This ensures operational control and financial sustainability of the platform.
 
 ---
 
-### 6. Hyperlocal Zone Risk Engine
+### vi. Hyperlocal Zone Risk Engine
 
 <img src="images/zonerisk.png" width="100%" />
 
